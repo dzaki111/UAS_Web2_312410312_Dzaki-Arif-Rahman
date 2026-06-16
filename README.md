@@ -4,9 +4,9 @@
 #### Matkul = Pemrograman Web 2  
 
 # Sistem Informasi Manajemen Inventaris Elektronik (E-Inventory)
-Sistem Informasi Manajemen Inventaris Elektronik (E-Inventory) adalah sebuah aplikasi berbasis web yang dirancang untuk mengelola data operasional gudang secara digital. Proyek ini dipilih untuk memecahkan masalah efisiensi dalam pencatatan stok, pengelompokan kategori barang, serta pemantauan nilai aset secara real-time.
+Sistem Informasi Manajemen Inventaris Elektronik (E-Inventory) adalah sebuah web yang dirancang untuk mengelola data operasional gudang secara digital. Proyek ini dipilih untuk memecahkan masalah efisiensi dalam pencatatan stok, pengelompokan kategori barang, serta pemantauan nilai aset secara real-time.
 
-Aplikasi ini mengadopsi Decoupled Architecture, di mana bagian backend menggunakan framework CodeIgniter 4 yang berfungsi sebagai penyedia RESTful API untuk manajemen database (CRUD), sementara bagian frontend dibangun menggunakan Vue.js 3 sebagai Single Page Application (SPA). Dengan fitur pencarian, filter kategori, status stok kritis, dan dasbor statistik, sistem ini memberikan kemudahan bagi administrator dalam melakukan kontrol logistik secara akurat, aman, dan responsif dengan dukungan desain antarmuka modern dari TailwindCSS.
+WEB ini mengadopsi Decoupled Architecture, di mana bagian backend menggunakan framework CodeIgniter 4 yang berfungsi sebagai penyedia RESTful API untuk manajemen database (CRUD), sementara bagian frontend dibangun menggunakan Vue.js 3 sebagai Single Page Application (SPA). Dengan fitur pencarian, filter kategori, status stok kritis, dan dasbor statistik, sistem ini memberikan kemudahan bagi administrator dalam melakukan kontrol logistik secara akurat, aman, dan responsif dengan dukungan desain antarmuka modern dari TailwindCSS.
 
 ## 1. Arsitektur Database & Backend API
 <img width="654" height="194" alt="16 06 2026_14 28 07_REC" src="https://github.com/user-attachments/assets/eea3c313-1ec1-4f12-91dd-c31f52961e5f" />
