@@ -43,6 +43,6 @@ Aplikasi ini mengadopsi Decoupled Architecture, di mana bagian backend menggunak
 
 ## 3.Link Akses
 
-* Link Demo: [Masukkan Link Vercel Kamu]
+* Link Demo: https://uas-web2-312410312-dzaki-arif-rahma-iota.vercel.app/#/
 
 * Link Video Presentasi: [Masukkan Link YouTube Kamu]
