@@ -3,6 +3,13 @@
 #### NIM    = 312410312 
 #### Matkul = Pemrograman Web 2  
 
+
+1. Arsitektur Database & Backend API
+<img width="654" height="194" alt="16 06 2026_14 28 07_REC" src="https://github.com/user-attachments/assets/eea3c313-1ec1-4f12-91dd-c31f52961e5f" />
+<img width="289" height="204" alt="16 06 2026_14 29 05_REC" src="https://github.com/user-attachments/assets/55495b26-335a-442c-83ce-f6bc7f6d21c9" />
+<img width="697" height="353" alt="16 06 2026_14 28 28_REC" src="https://github.com/user-attachments/assets/bf8d349d-649d-4903-8b27-b0dc5637dccf" />
+
+2. Arsitektur Frontend VueJS SPA & TailwindCSS
 # Modul Otentikasi (Sistem Login):
 
 <img width="654" height="194" alt="16 06 2026_14 28 07_REC" src="https://github.com/user-attachments/assets/eea3c313-1ec1-4f12-91dd-c31f52961e5f" />
