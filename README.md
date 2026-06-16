@@ -1,4 +1,7 @@
-# UAS_Web2_312410312_Dzaki-Arif-Rahman
+#### Nama   = Dzaki Arif Rahman
+#### Kelas  = I241D 
+#### NIM    = 312410312 
+#### Matkul = Pemrograman Web 2  
 
 
 <img width="654" height="194" alt="16 06 2026_14 28 07_REC" src="https://github.com/user-attachments/assets/eea3c313-1ec1-4f12-91dd-c31f52961e5f" />
