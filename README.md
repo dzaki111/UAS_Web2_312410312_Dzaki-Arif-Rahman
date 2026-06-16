@@ -45,4 +45,4 @@ WEB ini mengadopsi Decoupled Architecture, di mana bagian backend menggunakan fr
 
 * Link Demo: https://uas-web2-312410312-dzaki-arif-rahma-iota.vercel.app/#/
 
-* Link Video Presentasi: [Masukkan Link YouTube Kamu]
+* Link Video Presentasi: https://youtu.be/V0vcWJldzLo?feature=shared
